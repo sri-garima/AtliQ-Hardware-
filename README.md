@@ -46,7 +46,7 @@ Now ,there are two types of customer(PLATFORM)--> - **Brick & Mortar** :- croma 
 
 **Top 5 & Bottom 5 Products** :  Listed the best and worst-performing products.
 
-**New Products by Fiscal Year** :Analysis on  new additions launched in 2021. 
+**New Products by Fiscal Year** :Analysis on  new additions launched in 2021.Fiscal year of Atliq hardware starts from september and ends in next august month. 
 
 **Top 5 Countries** : India led the sales with USD 161.3 million.
     
